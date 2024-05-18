@@ -50,8 +50,4 @@ public class CulturalFestSeatingBruteForce {
     }
 }
 
-
-
-  
-            // {2, 4, 6},      // Not possible
  
